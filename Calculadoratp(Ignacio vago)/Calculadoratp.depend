@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1460088867 source:c:\users\nacho\desktop\calculadoratp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funciones.h"
+
+1460088829 c:\users\nacho\desktop\calculadoratp\funciones.h
+
