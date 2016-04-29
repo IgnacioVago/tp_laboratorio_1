@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1461971273 source:c:\users\nacho\desktop\tp nº2 ignacio vago\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1461971307 c:\users\nacho\desktop\tp nº2 ignacio vago\funciones.h
+
+1461971283 source:c:\users\nacho\desktop\tp nº2 ignacio vago\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funciones.h"
+
